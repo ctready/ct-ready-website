@@ -1,0 +1,52 @@
+body {
+    font-family: helvetica, sans-serif;
+    background: #f8f6eb;
+}
+
+.navbar {
+    margin: auto;
+    text-align: center;
+    border-bottom: solid 2px #187e23;
+    padding-bottom: 10px;
+}
+
+.navbar h2 {
+    color: #187e23;
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar ul {
+    list-style-type: none;
+    display: inline;
+}
+
+.website-nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.headline {
+    margin: auto;
+    border-bottom: solid 2px #187e23;
+}
+
+.headline-cont {
+    margin: auto;
+    width: 70%;
+    display: flex;
+}
+
+.headline-cont h2 {
+    text-align: right;
+    flex: 1;
+    align-self: center;
+    margin-right: 20px;
+    color: #187e23;
+}
+
+.headline-cont p {
+    text-align: left;
+    flex: 1;
+}
