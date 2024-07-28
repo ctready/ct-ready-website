@@ -26,3 +26,27 @@ body {
     display: inline;
     margin-right: 20px;
 }
+
+.headline {
+    margin: auto;
+    border-bottom: solid 2px #187e23;
+}
+
+.headline-cont {
+    margin: auto;
+    width: 70%;
+    display: flex;
+}
+
+.headline-cont h2 {
+    text-align: right;
+    flex: 1;
+    align-self: center;
+    margin-right: 20px;
+    color: #187e23;
+}
+
+.headline-cont p {
+    text-align: left;
+    flex: 1;
+}
