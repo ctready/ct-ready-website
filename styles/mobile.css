@@ -1,0 +1,151 @@
+body {
+    font-family: helvetica, sans-serif;
+    background: #f7f8d7;
+}
+
+.navbar {
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    border-bottom: solid 2px #187e23;
+    padding-bottom: 1em;
+}
+
+.home-button {
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+
+.home-button a{
+    color: #187e23;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.website-nav a{
+    font-size: 1.15em;
+    text-decoration: none;
+    color: black;
+}
+
+.navbar ul {
+    list-style-type: none;
+    display: inline;
+}
+
+.website-nav li {
+    display: inline-block;
+    margin-right: 1.2em;
+}
+
+.headline-1 {
+    margin: auto;
+    width: 100%;
+}
+
+.headline-cont-1 {
+    margin: auto;
+    width: 100%;
+    display: flex;
+}
+
+.headline-cont-1 h2 {
+    text-align: right;
+    flex: 1;
+    align-self: center;
+    margin-right: 2em;
+    color: #187e23;
+    font-size: 2em;
+}
+
+.headline-cont-1 p {
+    text-align: left;
+    flex: 1;
+}
+
+.headline-2 {
+    margin: auto;
+    width: 70%;
+    border-bottom: solid 2px #187e23;
+}
+
+.headline-cont-2 {
+    margin: auto;
+    width: 100%;
+    display: flex;
+}
+
+.headline-cont-2 h2 {
+    text-align: right;
+    flex: 1;
+    align-self: center;
+    margin-right: 2em;
+    color: #187e23;
+}
+
+.headline-cont-2 p {
+    text-align: left;
+    flex: 4;
+    font-size: 1.15em;   
+}
+
+.blog-list {
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    font-size: 1.15em;
+}
+
+.blog-list li {
+    list-style-type: none;
+}
+
+.blog-list a {
+    text-decoration: none;
+    color: black;
+}
+
+.blog-post {
+    width: 100%;
+    margin: auto;
+}
+
+.blog-post h1 {
+    font-size: 2em;
+    color: #187e23;
+}
+
+.blog-post h3 {
+    font-size: .9em;
+    color: #3a3a3a;
+    font-style: italic;
+}
+
+.blog-post p {
+    font-size: 1.15em;
+}
+
+.blog-post h2 {
+    font-size: 1.5em;
+}
+
+.blog-post ul {
+    font-size: 1.15em;
+}
+
+.blog-post a {
+    text-decoration: none;
+    color: #187e23;
+}
+
+.blog-post h5 {
+    font-size: 1.3em;
+}
+
+.post-border {
+    margin: auto;
+    width: 100%;
+    border-bottom: solid 2px #187e23;    
+}
