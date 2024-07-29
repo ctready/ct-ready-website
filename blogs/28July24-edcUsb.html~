@@ -12,14 +12,12 @@
       <div class="home-button"><a href="../index.html">CT Ready</a></div>
       <ul class="website-nav">
 	<li><a href="../blog.html">Blog</a></li>
-	<li><a href="../about.html">About</a></li>
+	<li><a href="../about.html">About & Contact</a></li>
       </ul>
     </div>
     <div class="blog-post">
       <h1>I Always Carry a PC In My Pocket</h1>
       <h3>28 July 2024</h3>
-      <img src="../images/test.jpg">
-      <br/>
       <br/>
       <p>Like many, I always have my phone on me, but sometimes I need to use a computer that isn’t mine. Whether it’s checking a flight status while traveling, downloading an important document on a colleagues computer, or using a computer with outdated antivirus, my USB flash drives are my go-to solution for comfort and security.</p>
       <p>I carry two USB flash drives: a 128GB flash drive on my key chain and a 64GB flash drive shaped like a credit card in my wallet.</p>
@@ -60,16 +58,9 @@
       <br/>
       <h2>Conclusion</h2>
       <p>Having a USB flash drive ensures secure access to digital files, software, and the internet. My setup handles about 99% of situations, giving me confidence. Storage is cheap, and everything I mentioned is free. If you don’t have an EDC flash drive, start now. Shoot me an email with any questions or comments and always, <b>STAY READY</b>.</p>
+      <br/>
       <h5>-CT</h5>
     </div>
     <div class="post-border"></div>
-    <div class="footer">
-      <table>
-	<tr>
-	  <td>&copy CT Ready 2024</td>
-	  <td class="socials"><a href="https://www.instagram.com/ct_ready/" target="_blank"><img src="../images/instagram-icon.png"></a> <a href="https://x.com/ct_ready" target="_blank"><img src="../images/x-icon.png"></a></td>
-	</tr>
-      </table>
-    </div>
   </body>
 </html>
