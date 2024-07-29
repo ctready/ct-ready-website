@@ -43,6 +43,7 @@ body {
 .headline {
     margin: auto;
     width: 50%;
+    overflow: auto;
 }
 
 .headline h1 {
@@ -50,8 +51,33 @@ body {
     font-size: 2em;
 }
 
-.headline p {
+.home-headline {
+    width: 80%;
+    display: flex;
+    flex-flow: row wrap;
+    margin: auto;
+    align-items: center;
+}
+
+.headline-text {
+    flex: none;
+    margin: auto;
+}
+
+.headline-text h1 {
+    color: #187e23;
+    font-size: 2em;
+}
+
+.headline-text p {
     font-size: 1.15em;
+    line-height: 2em;
+}
+
+.headline-image {
+    flex: none;
+    margin: auto;
+    padding: 2em;
 }
 
 .recent-posts {
@@ -134,6 +160,7 @@ body {
 
 .blog-post p {
     font-size: 1.15em;
+    line-height: 2em;
 }
 
 .blog-post h2 {
@@ -142,6 +169,7 @@ body {
 
 .blog-post ul {
     font-size: 1.15em;
+    line-height: 2em;
 }
 
 .blog-post a {
