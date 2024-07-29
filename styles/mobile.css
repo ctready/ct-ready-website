@@ -78,6 +78,7 @@ body {
 .headline-image img {
     width: 100%;
     height: auto;
+    margin: auto;
 }
 
 .recent-posts {
