@@ -55,6 +55,11 @@ body {
     width: 100%;
 }
 
+.headline-text {
+    width: 100%;
+    margin: auto;
+}
+
 .headline-text h1 {
     color: #187e23;
     font-size: 2em;
@@ -63,6 +68,11 @@ body {
 .headline-text p {
     font-size: 1.15em;
     line-height: 2em;
+}
+
+.headline-image {
+    width: 100%;
+    height: auto;
 }
 
 .recent-posts {
