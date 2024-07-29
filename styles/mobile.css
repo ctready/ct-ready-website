@@ -80,6 +80,7 @@ body {
     height: auto;
     margin: auto;
     display: block;
+    box-sizing: border-box;
 }
 
 .recent-posts {
