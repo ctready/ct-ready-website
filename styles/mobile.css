@@ -50,8 +50,19 @@ body {
     font-size: 2em;
 }
 
-.headline p {
+.home-headline {
+    margin: auto;
+    width: 100%;
+}
+
+.headline-text h1 {
+    color: #187e23;
+    font-size: 2em;
+}
+
+.headline-text p {
     font-size: 1.15em;
+    line-height: 2em;
 }
 
 .recent-posts {
@@ -134,6 +145,7 @@ body {
 
 .blog-post p {
     font-size: 1.15em;
+    line-height: 2em;
 }
 
 .blog-post h2 {
@@ -142,6 +154,7 @@ body {
 
 .blog-post ul {
     font-size: 1.15em;
+    line-height: 2em;
 }
 
 .blog-post a {
