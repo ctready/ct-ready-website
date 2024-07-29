@@ -70,6 +70,10 @@ body {
     line-height: 2em;
 }
 
+.headline-image {
+    width: 100%;
+}
+
 .headline-image img {
     width: 100%;
     height: auto;
