@@ -1,18 +1,18 @@
 body {
     font-family: helvetica, sans-serif;
-    background: #fefefb;
+    background: #f7f3ed;
+    color: #43464b ;
 }
 
 img {
-    border: 2px solid #187e23;
-    box-shadow: 1px 1px 5px;
+    box-shadow: 1px 1px 5px #43464b;
 }
 
 .navbar {
     margin: auto;
     width: 80%;
     text-align: center;
-    border-bottom: solid 2px #187e23;
+    border-bottom: solid 2px #005c3d;
     padding-bottom: 1em;
 }
 
@@ -23,7 +23,7 @@ img {
 }
 
 .home-button a{
-    color: #187e23;
+    color: #005c3d;
     font-size: 1.5em;
     font-weight: bold;
     text-decoration: none;
@@ -32,7 +32,7 @@ img {
 .website-nav a{
     font-size: 1.15em;
     text-decoration: none;
-    color: black;
+    color: #43464b;
 }
 
 .navbar ul {
@@ -60,7 +60,7 @@ img {
 }
 
 .headline-text h1 {
-    color: #187e23;
+    color: #005c3d;
     font-size: 2em;
 }
 
@@ -71,7 +71,7 @@ img {
 
 .headline-text a {
     text-decoration: none;
-    color: #187e23;
+    color: #005c3d;
 }
 
 .headline-image {
@@ -91,7 +91,7 @@ img {
 }
 
 .recent-posts h1 {
-    color: #187e23;
+    color: #005c3d;
     font-size: 2em;
     text-align: center;
 }
@@ -114,7 +114,7 @@ img {
 }
 
 .recent-posts a {
-    color: black;
+    color: #43464b;
     text-decoration: none;
 }
 
@@ -128,7 +128,7 @@ img {
 .recent-post-border {
     margin: auto;
     width: 40%;
-    border-bottom: solid 2px #187e23;
+    border-bottom: solid 2px #005c3d;
 }
 
 .blog-list {
@@ -149,7 +149,7 @@ img {
 
 .blog-list a {
     text-decoration: none;
-    color: black;
+    color: #43464b;
 }
 
 .blog-post {
@@ -159,7 +159,7 @@ img {
 
 .blog-post h1 {
     font-size: 2em;
-    color: #187e23;
+    color: #005c3d;
 }
 
 .blog-post h3 {
@@ -184,7 +184,7 @@ img {
 
 .blog-post a {
     text-decoration: none;
-    color: #187e23;
+    color: #005c3d;
 }
 
 .blog-post h5 {
@@ -199,7 +199,7 @@ img {
 .post-border {
     margin: auto;
     width: 80%;
-    border-bottom: solid 2px #187e23;    
+    border-bottom: solid 2px #005c3d;    
 }
 
 .footer {
