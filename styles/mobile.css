@@ -3,6 +3,11 @@ body {
     background: #fefefb;
 }
 
+img {
+    border: 2px solid #187e23;
+    box-shadow: 1px 1px 5px;
+}
+
 .navbar {
     margin: auto;
     width: 100%;
@@ -167,7 +172,7 @@ body {
     font-size: 1.5em;
 }
 
-.blog-post ul {
+.blog-post ul, ol {
     font-size: 1.15em;
     line-height: 2em;
 }
@@ -208,4 +213,9 @@ body {
 
 .footer .socials {
     text-align: right;
+}
+
+.socials img {
+    box-shadow: none;
+    border: none;
 }

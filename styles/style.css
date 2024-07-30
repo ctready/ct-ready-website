@@ -3,6 +3,11 @@ body {
     background: #fefefb;
 }
 
+img {
+    border: 2px solid #187e23;
+    box-shadow: 1px 1px 5px;
+}
+
 .navbar {
     margin: auto;
     width: 80%;
@@ -76,8 +81,8 @@ body {
 
 .headline-image img {
     width: 400px;
-    padding-top: 2em;
-    padding-bottom: 2em;
+    margin-top: 2em;
+    margin-bottom: 2em;
 }
 
 .recent-posts {
@@ -172,7 +177,7 @@ body {
     font-size: 1.5em;
 }
 
-.blog-post ul {
+.blog-post ul, ol {
     font-size: 1.15em;
     line-height: 2em;
 }
@@ -188,7 +193,7 @@ body {
 
 .blog-post img {
     width: 100%;
-    height: auto;    
+    height: auto;
 }
 
 .post-border {
@@ -214,4 +219,9 @@ body {
 
 .footer .socials {
     text-align: right;
+}
+
+.socials img {
+    box-shadow: none;
+    border: none;
 }
